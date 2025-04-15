@@ -1,5 +1,4 @@
-# secure-authentication-system
-A secure authentication system using Python and SQL
+
 # Secure Authentication System
 
 This is a secure authentication system project designed to provide a simple and secure way of logging in and signing up users. The system uses secure methods for handling user credentials and provides basic functionalities for user registration and login.
